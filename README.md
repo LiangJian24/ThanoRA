@@ -1,4 +1,7 @@
-<h1 align="center">ThanoRA: Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation</h1>
+<h1 align="center">
+  ThanoRA: Task Heterogeneity-Aware <br>
+  Multi-Task Low-Rank Adaptation
+</h1>
 
 <div align="center">
 <img alt="method" src="images/ThanoRA.png">
