@@ -1,6 +1,6 @@
 # ThanoRA
 
-This repository is built for the paper [Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation](https://arxiv.org/abs/2505.18640).
+This repository is built for the paper [ThanoRA: Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation](https://arxiv.org/abs/2505.18640).
 
 
 <div align="center">
