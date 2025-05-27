@@ -1,7 +1,7 @@
-<h1 align="center">
-  ThanoRA: Task Heterogeneity-Aware <br>
-  Multi-Task Low-Rank Adaptation
-</h1>
+# ThanoRA
+
+This repository is built for the paper [Task Heterogeneity-Aware Multi-Task Low-Rank Adaptation](https://arxiv.org/abs/2505.18640).
+
 
 <div align="center">
 <img alt="method" src="images/ThanoRA.png">
